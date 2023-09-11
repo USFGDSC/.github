@@ -6,8 +6,9 @@
   Bridging the gap between theory and practical application.
 </h3>
 <br>
+
+<h4 align="center">2023-2024 Board:</h4>
+
 <p align="center">
-  2023-2024 Board:
-  <br>
   <img src="https://github.com/USFGDSC/.github/assets/98829238/b4defd18-418f-4350-97a9-0ff4525261fe" width=690px height=560px align="center" />
 </p>
