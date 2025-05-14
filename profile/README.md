@@ -7,8 +7,9 @@ Welcome to the official GitHub organization of **GDSC at the University of South
 We provide opportunities for both professional and personal development, equipping students with the right skills not just for *their* future, but for *our* collective future. Whether you're a seasoned developer or just getting started, our club offers a supportive environment for skill development, project collaboration, and tech exploration.
 
 <p align="center">
-  <img src=![1744780874793]"https://github.com/user-attachments/assets/14fa0524-7a8f-4dda-adc3-4043f7bfd766" width=690px height=560px align="center" />
+  <img src="https://github.com/user-attachments/assets/14fa0524-7a8f-4dda-adc3-4043f7bfd766" width=690px height=560px align="center" />
 </p>
+
 
 ## 🎯 Our Mission
 
@@ -16,6 +17,7 @@ We provide opportunities for both professional and personal development, equippi
 - 🤝 Promote collaborative learning and open-source contributions  
 - 📚 Host weekly tech and professional development workshops and coding sessions for continuous growth  
 - 🚀 Build real-world applications that solve meaningful problems
+
 
 ## 🧑‍💼 Executive Board
 
@@ -35,6 +37,7 @@ We provide opportunities for both professional and personal development, equippi
 
 *Want to reach out to us? Feel free to contact any board member directly!*
 
+
 ## 📁 What You'll Find Here
 
 This organization hosts the repositories for all our club's initiatives, including:
@@ -45,6 +48,7 @@ This organization hosts the repositories for all our club's initiatives, includi
 - 📚 Learning resources and workshop materials  
 - 🔧 Ongoing and archived community projects  
 
+
 ## 🙌 Get Involved
 
 Interested in joining or contributing? Here's how you can participate:
@@ -52,6 +56,7 @@ Interested in joining or contributing? Here's how you can participate:
 - 🔗 Join us via [BullsConnect](https://bullsconnect.usf.edu/GDSC/club_signup)  
 - 💬 Connect on [our Discord](https://discord.com/invite/HfUZZpEJHE)  
 - 🧑‍💻 Browse our [open positions on LinkTree](https://linktr.ee/usfgdsc) and join our growing team of developers and innovators!  
+
 
 ## 🤝 Code of Conduct
 
