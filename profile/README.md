@@ -7,7 +7,7 @@ Welcome to the official GitHub organization of **GDSC at the University of South
 We provide opportunities for both professional and personal development, equipping students with the right skills not just for *their* future, but for *our* collective future. Whether you're a seasoned developer or just getting started, our club offers a supportive environment for skill development, project collaboration, and tech exploration.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/14fa0524-7a8f-4dda-adc3-4043f7bfd766" width=690px height=560px align="center" />
+  <img src="https://github.com/user-attachments/assets/14fa0524-7a8f-4dda-adc3-4043f7bfd766" width=700px align="center" />
 </p>
 
 
