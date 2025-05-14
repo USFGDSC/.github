@@ -11,7 +11,7 @@ We provide opportunities for both professional and personal development, equippi
 </p>
 
 
-
+---
 ## 🎯 Our Mission
 
 - 💡 Encourage innovation through hands-on projects  
@@ -20,7 +20,7 @@ We provide opportunities for both professional and personal development, equippi
 - 🚀 Build real-world applications that solve meaningful problems
 
 
-
+---
 ## 🧑‍💼 Executive Board
 
 | Role               | Name                      | Email                        |
@@ -40,7 +40,7 @@ We provide opportunities for both professional and personal development, equippi
 *Want to reach out to us? Feel free to contact any board member directly!*
 
 
-
+---
 ## 📁 What You'll Find Here
 
 This organization hosts the repositories for all our club's initiatives, including:
@@ -52,7 +52,7 @@ This organization hosts the repositories for all our club's initiatives, includi
 - 🔧 Ongoing and archived community projects  
 
 
-
+---
 ## 🙌 Get Involved
 
 Interested in joining or contributing? Here's how you can participate:
@@ -62,7 +62,7 @@ Interested in joining or contributing? Here's how you can participate:
 - 🧑‍💻 Browse our [open positions on LinkTree](https://linktr.ee/usfgdsc) and join our growing team of developers and innovators!  
 
 
-
+---
 ## 🤝 Code of Conduct
 
 We are dedicated to fostering an inclusive, respectful, and welcoming community. Please read our [Code of Conduct](#) before participating in any of our projects.
